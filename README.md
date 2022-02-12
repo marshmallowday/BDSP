@@ -1,1 +1,2 @@
-# BDSP
+BDSPver1.1.2,ArduinoLeonardoでの動作確認済み
+自身の責任の下で利用してください

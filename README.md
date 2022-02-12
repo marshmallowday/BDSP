@@ -1,4 +1,4 @@
-
+以下、PokemonBDSP ver1.1.2においてArduino Leonardoを用いて動作確認済。
 これはメニューバグ(BDSPver1.1.1,ver1.1.2,ver1.1.3で確認されているもの)によりアイテムを増殖させるプログラムです。ご利用は自身の責任のもとで行ってください。以下参考資料
 
 Arduino　Leonardoの導入：https://pokemonit.com/micon-introduction/ 

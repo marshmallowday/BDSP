@@ -3,7 +3,8 @@
 
 Arduino　Leonardoの導入：https://pokemonit.com/micon-introduction/　
                   
-                   or   https://tangential-star.hatenablog.jp/entry/20201107/1604761008
+                  
+                  またはhttps://tangential-star.hatenablog.jp/entry/20201107/1604761008
 
 NintendoSwitchControlLibraryのインストール：https://github.com/lefmarna/NintendoSwitchControlLibrary
 
